@@ -1,0 +1,14 @@
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\bin\Debug\WinFormsWithVisualBasic.exe.config
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\bin\Debug\WinFormsWithVisualBasic.exe
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\bin\Debug\WinFormsWithVisualBasic.pdb
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\bin\Debug\WinFormsWithVisualBasic.xml
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.vbproj.AssemblyReference.cache
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.Resources.resources
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.vbproj.GenerateResource.cache
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.exe
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.xml
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinFormsWithVisualBasic.pdb
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gusco\source\repos\WinFormsWithVisualBasic\obj\Debug\WinForms.6BA2E986.Up2Date
